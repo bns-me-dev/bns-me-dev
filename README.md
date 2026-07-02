@@ -3,7 +3,7 @@
 **`Desenvolvedor Freelancer`**
 
 Sou desenvolvedor freelancer com foco em criação de sites, sistemas e soluções digitais.
-Minha base técnica vem de mais de 5 anos atuando com programação industrial, lógica de controle e automação. Além de realização de cursos de programação — o que me dá uma visão diferenciada para resolver problemas de forma eficiente.
+Minha base técnica vem de mais de 5 anos atuando com programação industrial, lógicas de controle e automação, além de realização de cursos de programação — o que me dá uma visão diferenciada para resolver problemas de forma eficiente.
 Aplico esse raciocínio no desenvolvimento com organização, clareza e atenção aos detalhes.
 
 <p align="left">
