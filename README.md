@@ -10,27 +10,32 @@ Atuo no desenvolvimento de soluções que conectam automação, software e dados
 
 Procuro manter meus repositórios organizados de acordo com a origem e finalidade de cada projeto.
 
+
   📚 Projetos de cursos
 
-    Projetos desenvolvidos durante cursos, treinamentos e estudos práticos.
+  Projetos desenvolvidos durante cursos, treinamentos e estudos práticos.
 
-      Repositório: courses-projects
+  Repositório: courses-projects
 
-    Esse repositório reúne projetos desenvolvidos como parte do processo de aprendizado, servindo também como registro da minha evolução técnica.
+  Esse repositório reúne projetos desenvolvidos como parte do processo de aprendizado, servindo também como registro da minha evolução técnica.
+
+  ---
 
   🌐 Projetos públicos
 
-    Projetos pessoais ou soluções que podem ser disponibilizados publicamente, e que podem conter experimentos, ferramentas, estudos ou soluções desenvolvidas por iniciativa própria.
+  Projetos pessoais ou soluções que podem ser disponibilizados publicamente, e que podem conter experimentos, ferramentas, estudos ou soluções desenvolvidas por iniciativa própria.
 
-      O padrão utilizado é: open-tipoProjeto-nomeProjeto
+  O padrão utilizado é: open-tipoProjeto-nomeProjeto
 
-      Exemplo: open-site-bns (repositório do meu site pessoal)
+  Exemplo: open-site-bns (repositório do meu site pessoal)
+  
+  ---
 
   💼 Projetos privados / Cases
 
-    Projetos desenvolvidos para clientes, empresas ou soluções que não podem ter seu código-fonte disponibilizado publicamente. 
+  Projetos desenvolvidos para clientes, empresas ou soluções que não podem ter seu código-fonte disponibilizado publicamente. 
 
-    Quando possível, esses projetos podem ser apresentados como cases, mostrando o problema, a solução desenvolvida, as tecnologias utilizadas e os resultados obtidos, sem expor informações ou códigos proprietários. 
+  Quando possível, esses projetos podem ser apresentados como cases, mostrando o problema, a solução desenvolvida, as tecnologias utilizadas e os resultados obtidos, sem expor informações ou códigos proprietários. 
     
-      Acesse o site: https://bns-me.com/
+  Acesse o site: https://bns-me.com/
 
