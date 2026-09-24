@@ -1,10 +1,36 @@
-👩🏻‍💻 Bruno Souza
+👩🏻‍💻 Olá, sou Bruno do Nascimento Souza 👋
 
 **`Engenheiro e Desenvolvedor Full Stack`**
 
-Atuo na interseção entre **automação industrial e desenvolvimento de software**, com experiência em programação de CLPs, IHMs, redes industriais e sistemas de supervisão, além do desenvolvimento de **dashboards web e soluções para monitoramento em tempo real**.
+Atuo no desenvolvimento de soluções que conectam automação, software e dados, com experiência em programação industrial, sistemas de supervisão, redes industriais e desenvolvimento de aplicações web.
 
-Minha base técnica é construída a partir de **mais de 5 anos de experiência em programação industrial, lógica de controle e automação**, o que me proporciona uma visão orientada à resolução de problemas, confiabilidade e eficiência.
+---
 
-No desenvolvimento de software, aplico essa experiência com foco em **arquitetura, organização, clareza e escalabilidade**, buscando transformar necessidades reais em soluções eficientes e bem estruturadas.
+📂 Organização dos projetos
+
+Procuro manter meus repositórios organizados de acordo com a origem e finalidade de cada projeto.
+
+  📚 Projetos de cursos
+
+    Projetos desenvolvidos durante cursos, treinamentos e estudos práticos.
+
+      Repositório: courses-projects
+
+    Esse repositório reúne projetos desenvolvidos como parte do processo de aprendizado, servindo também como registro da minha evolução técnica.
+
+  🌐 Projetos públicos
+
+    Projetos pessoais ou soluções que podem ser disponibilizados publicamente, e que podem conter experimentos, ferramentas, estudos ou soluções desenvolvidas por iniciativa própria.
+
+      O padrão utilizado é: open-tipoProjeto-nomeProjeto
+
+      Exemplo: open-site-bns (repositório do meu site pessoal)
+
+  💼 Projetos privados / Cases
+
+    Projetos desenvolvidos para clientes, empresas ou soluções que não podem ter seu código-fonte disponibilizado publicamente. 
+
+    Quando possível, esses projetos podem ser apresentados como cases, mostrando o problema, a solução desenvolvida, as tecnologias utilizadas e os resultados obtidos, sem expor informações ou códigos proprietários. 
+    
+      Acesse o site: https://bns-me.com/
 
