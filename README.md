@@ -13,11 +13,11 @@ Procuro manter meus repositórios organizados de acordo com a origem e finalidad
 
   📚 Projetos de cursos
 
-  Projetos desenvolvidos durante cursos, treinamentos e estudos práticos.
-
-  Repositório: courses-projects
-
   Esse repositório reúne projetos desenvolvidos como parte do processo de aprendizado, servindo também como registro da minha evolução técnica.
+
+  O padrão utilizado é: course-NomeDaEmpresa-NomeDoCurso
+
+  Exemplo: course-EmpresaA-CursoA
 
   ---
 
